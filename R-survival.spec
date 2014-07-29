@@ -36,4 +36,4 @@ rm -f %{buildroot}%{rlibdir}/R.css
 %{_bindir}/R CMD check %{packname}
 
 %files
-%dir %{rlibdir}/%{packname}
+%{rlibdir}/%{packname}
