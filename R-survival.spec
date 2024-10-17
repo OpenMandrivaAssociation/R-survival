@@ -7,7 +7,7 @@ Release:          1
 Summary:          Survival Analysis
 Group:            Sciences/Mathematics
 License:          LGPLv2+
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_2.37-7.tar.gz
 
 Requires:         R-stats R-utils R-graphics R-splines 
